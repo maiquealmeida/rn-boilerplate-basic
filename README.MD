@@ -2,10 +2,27 @@
 
 Boilerplate para bootstrap de aplicativos React Native com React 16.8.3 e React-Native 0.59.0 (HOOKS RULES!!!)
 
+## TODO
+
+- [ ] Simplificar a alteração do nome do projeto e do aplicativo.
+- [ ] Facilitar a troca do icone do aplicativo
+- [ ] Facilitar a configuração da splash screen
+
 ## Recursos
 
 - [x] jsconfig para configuração do AutoComplete de diretórios no VSCode
 - [x] Babel config
+- [x] Configuração do Editorconfig
+- [x] Configação para estilização utilizando ESLint
+
+## Como utilizar
+
+- Faça o downloado ou clone este repositório;
+- Execute o comando:
+
+```shell
+yarn install
+```
 
 ## DevDependencies
 
